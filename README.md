@@ -18,7 +18,7 @@ folders to showcase this work.
 
 - - -
 
-### Summary ###
+## Summary ##
 I have used these further completions as an opporrunity to:
 * Update the readme file using the command line and get used to the process of 
   creating clear, concise and informative README's.
