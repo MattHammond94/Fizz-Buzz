@@ -1,14 +1,14 @@
 # Pair Programming and TDD #
 Myself and Marco paired to solve the FizzBuzz problem using a TDD approach.
 Within both the Lib and Spec folders you can locate the fizzbuzz files to view 
-how we reached our most recent solution using a Test driven approach.
+how we reached our most recent solution using a test driven approach.
 
 - - -
 
 ## Greeter and Roman Numerals ##
 After some internet connection issues during our first meet we were unable to 
 complete the FizzBuzz task. So between our first and second pairing session, I 
-spent some time in following both of the Makers code alongs to get a better 
+spent some time following both of the Makers code alongs to get a better 
 understanding of not only how to write spec syntax but also the benefits of 
 writing test suites and how this can inform the code you write to ensure it is 
 functional. 
@@ -28,5 +28,3 @@ I have used these further completions as an opporrunity to:
   pass the codewars Kata (However I don't claim any rights to this solution.)
 
 - - - 
-
-
